@@ -1,0 +1,14 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Going for walk",
+      "completed": false
+    },
+    {
+      "title": "Reading Book",
+      "completed": true,
+      "id": 3
+    }
+  ]
+}
